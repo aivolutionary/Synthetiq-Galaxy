@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Mission & Vision
 parent: Welcome to Synthetiq Galaxy
 nav_order: 2
 ---

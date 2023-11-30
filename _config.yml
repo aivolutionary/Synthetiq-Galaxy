@@ -3,7 +3,7 @@ description: Synthetiq Galaxy: Where boundless AI innovation converges in a cosm
 theme: just-the-docs
 
 url: https://aivolutionary.github.io/Synthetiq-Galaxy/
-logo: "/assets/images/techbud-ai.png"
+# logo: "/assets/images/techbud-ai.png"
 favicon_ico: "/assets/images/techbud-ai.png"
 aux_links:
   Template Repository: https://aivolutionary.github.io/Synthetiq-Galaxy/

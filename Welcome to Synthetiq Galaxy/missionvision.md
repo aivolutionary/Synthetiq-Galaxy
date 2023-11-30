@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 parent: Welcome to Synthetiq Galaxy
-nav_order: 1
+nav_order: 2
 ---
 
-This is an overview page
+This is the mission and vision page
